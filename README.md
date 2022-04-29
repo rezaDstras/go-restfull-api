@@ -1,2 +1,2 @@
-# GOLANG restful API
+# GOLANG RESTFUL API
 
